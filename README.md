@@ -5,8 +5,11 @@
 💚 In love with...
 
 🌍 Terraform
+
 🐳 Docker
+
 🚢 Kubernetes
+
 🕵️‍♂️ Jenkins
 
 <!--
