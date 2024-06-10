@@ -1,5 +1,5 @@
 ![Header](./header-image.png)
-## Hi there <i>Techies</i> 🖖 , Im Cristian Escribano
+## 🖖 Choose a job you love, and you will never have to work a day in your life.
 
 📚 I’m currently learning about Cloud, DevOps and automations 🔭
 
