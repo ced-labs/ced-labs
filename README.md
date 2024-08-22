@@ -5,7 +5,7 @@
 
 💚 In love with...
 
-🌍 Terraform
+🌍 Terraform / HCTA0-003 Certified 🏅
 
 🐳 Docker
 
